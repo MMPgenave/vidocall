@@ -9,7 +9,7 @@ function App() {
     appId: "f95c1defe4ad4fa7a230e8164a3153e6",
     channel: "f",
     token:
-      "007eJxTYCiRWvno3tlJIfMv7TP50/ZQO6Gd89mMM15BL/ZK7PyxwPimAkOapWmyYUpqWqpJYopJWqJ5opGxQaqFoZlJorGhqXGq2bNdl1MbAhkZIvfPZGFkgEAQn5EhjYEBAAzNIoU=",
+"007eJxTYEh88zW+ejn7Z5U5bo8mT2vxPbp235vQfw7sHRs7hcP4lDcoMKRZmiYbpqSmpZokppikJZonGhkbpFoYmpkkGhuaGqeaWV68kdoQyMhwrv42CyMDBIL4jAxpDAwAb5kgQQ=="
   };
   const callbacks = {
     EndCall: () => setVideoCall(false),
